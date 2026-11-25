@@ -1,17 +1,17 @@
 {
-  "serverTime": "2026-11-24T06:17:09.290Z",
+  "serverTime": "2026-11-25T04:59:11.679Z",
   "results": [
     {
       "ok": true,
       "data": {
         "symbol": "QLD",
-        "price": 71.91,
-        "asOf": "2026-11-23T14:30:00.000Z",
-        "updatedAt": "2026-11-24T06:17:09.115Z",
+        "price": 69.07,
+        "asOf": "2026-11-24T14:30:00.000Z",
+        "updatedAt": "2026-11-25T04:59:11.535Z",
         "sma200": 83.68,
-        "gap": -14.07,
+        "gap": -17.46,
         "rsi14": 33.15,
-        "rsi14Provisional": 41.11,
+        "rsi14Provisional": 38.63,
         "signal": {
           "level": 3,
           "by": [
@@ -34,7 +34,7 @@
           "rsiThreshold": 36,
           "gapThreshold": -26,
           "priceAtCurrentSma": 61.92,
-          "priceChangePct": -13.89
+          "priceChangePct": -10.35
         },
         "rules": {
           "rsi": [
@@ -52,10 +52,6 @@
         "weeklyRsiProvisional": true,
         "priceIsIntraday": true,
         "history": [
-          {
-            "date": "2025-12-10",
-            "close": 73.66
-          },
           {
             "date": "2025-12-11",
             "close": 73.18
@@ -1011,6 +1007,10 @@
           {
             "date": "2026-11-23",
             "close": 71.91
+          },
+          {
+            "date": "2026-11-24",
+            "close": 69.07
           }
         ],
         "note": "괴리율과 종가는 최신 제공 데이터 기준이며, 주봉 RSI는 완료된 주봉만 사용. 데이터 제공사 지연 가능."
@@ -1020,13 +1020,13 @@
       "ok": true,
       "data": {
         "symbol": "TQQQ",
-        "price": 49.1,
-        "asOf": "2026-11-23T14:30:00.000Z",
-        "updatedAt": "2026-11-24T06:17:09.178Z",
-        "sma200": 65.64,
-        "gap": -25.2,
+        "price": 46.19,
+        "asOf": "2026-11-24T14:30:00.000Z",
+        "updatedAt": "2026-11-25T04:59:11.601Z",
+        "sma200": 65.61,
+        "gap": -29.6,
         "rsi14": 32.75,
-        "rsi14Provisional": 39.51,
+        "rsi14Provisional": 37.18,
         "signal": {
           "level": 2,
           "by": [
@@ -1046,8 +1046,8 @@
           "level": 3,
           "rsiThreshold": 31,
           "gapThreshold": -45,
-          "priceAtCurrentSma": 36.1,
-          "priceChangePct": -26.47
+          "priceAtCurrentSma": 36.09,
+          "priceChangePct": -21.87
         },
         "rules": {
           "rsi": [
@@ -1065,10 +1065,6 @@
         "weeklyRsiProvisional": true,
         "priceIsIntraday": true,
         "history": [
-          {
-            "date": "2025-12-10",
-            "close": 56.65
-          },
           {
             "date": "2025-12-11",
             "close": 56.11
@@ -2024,6 +2020,10 @@
           {
             "date": "2026-11-23",
             "close": 49.1
+          },
+          {
+            "date": "2026-11-24",
+            "close": 46.19
           }
         ],
         "note": "괴리율과 종가는 최신 제공 데이터 기준이며, 주봉 RSI는 완료된 주봉만 사용. 데이터 제공사 지연 가능."
@@ -2035,17 +2035,13 @@
       "ok": true,
       "key": "NDX",
       "data": {
-        "price": 26746.1,
-        "date": "2026-11-23",
-        "sma200": 28081.65,
+        "price": 26214.17,
+        "date": "2026-11-24",
+        "sma200": 28086.38,
         "high52": 31224.47,
-        "drawdown": -14.34,
+        "drawdown": -16.05,
         "trend": "below",
         "history": [
-          {
-            "date": "2025-12-10",
-            "close": 25776.44
-          },
           {
             "date": "2025-12-11",
             "close": 25686.69
@@ -3001,6 +2997,10 @@
           {
             "date": "2026-11-23",
             "close": 26746.1
+          },
+          {
+            "date": "2026-11-24",
+            "close": 26214.17
           }
         ]
       }
@@ -3009,17 +3009,13 @@
       "ok": true,
       "key": "VIX",
       "data": {
-        "price": 26.62,
-        "date": "2026-11-23",
+        "price": 26.36,
+        "date": "2026-11-24",
         "sma200": null,
         "high52": null,
         "drawdown": null,
         "trend": null,
         "history": [
-          {
-            "date": "2025-12-12",
-            "close": 15.74
-          },
           {
             "date": "2025-12-15",
             "close": 16.5
@@ -3975,6 +3971,10 @@
           {
             "date": "2026-11-23",
             "close": 26.62
+          },
+          {
+            "date": "2026-11-24",
+            "close": 26.36
           }
         ]
       }
